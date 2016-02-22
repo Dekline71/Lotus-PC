@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;LotusPCFramework/res/textures/misc/MM_Tapestry&apos; to &apos;mM_Tapestry&apos;" description="Rename resource &apos;MM_Tapestry&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/textures/misc/MM_Tapestry" name="mM_Tapestry" stamp="1452797706258" updateReferences="true"/>
+</session>
